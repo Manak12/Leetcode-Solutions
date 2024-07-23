@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Manak12/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Manak12/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Manak12/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Manak12/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Manak12/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manak12/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Manak12/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Manak12/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Manak12/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manak12/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Manak12/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Manak12/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Manak12/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Greedy
 |  |
 | ------- |
