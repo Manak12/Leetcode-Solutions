@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1642-water-bottles](https://github.com/Manak12/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Manak12/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Manak12/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Manak12/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3447-clear-digits](https://github.com/Manak12/Leetcode-Solutions/tree/master/3447-clear-digits) |
 ## Math
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manak12/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Manak12/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Manak12/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Manak12/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Manak12/Leetcode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3447-clear-digits](https://github.com/Manak12/Leetcode-Solutions/tree/master/3447-clear-digits) |
 ## Stack
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Manak12/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manak12/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Manak12/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Manak12/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Manak12/Leetcode-Solutions/tree/master/3447-clear-digits) |
 ## Tree
 |  |
