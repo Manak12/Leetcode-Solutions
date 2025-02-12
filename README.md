@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Manak12/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manak12/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Manak12/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Manak12/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/Manak12/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manak12/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Manak12/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Manak12/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Manak12/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Manak12/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Manak12/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Manak12/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -163,4 +166,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Manak12/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Manak12/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
