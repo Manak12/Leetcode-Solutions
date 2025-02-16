@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Manak12/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0726-number-of-atoms](https://github.com/Manak12/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manak12/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Manak12/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
